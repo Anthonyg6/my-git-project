@@ -1,1 +1,3 @@
-print('Hi Git')
+greeting = 'Hello World'
+
+print(greeting);
