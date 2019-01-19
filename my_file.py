@@ -1,3 +1,7 @@
 greeting = 'Hello World'
 
-print(greeting);
+print(greeting)
+
+sum = 2 + 2
+
+print(sum)
