@@ -8,3 +8,6 @@ print(sum)
 
 def greetingTwo():
     print('Hi There')
+
+def hi():
+    return 'hi'
