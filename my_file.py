@@ -11,3 +11,6 @@ def greetingTwo():
 
 def hi():
     return 'hi'
+
+print(hello)
+
