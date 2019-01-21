@@ -13,4 +13,5 @@ def hi():
     return 'hi'
 
 print('hello')
+print('hello')
 
